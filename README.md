@@ -32,7 +32,7 @@
 ### Watch the Demo Video
 
 <video width="640" height="480" controls>
-  <source src="[https://github.com/your-username/your-repo/raw/main/demo.mp4](https://github.com/whisplnspace/AeroArt/blob/main/AeroArt.mp4)" type="video/mp4">
+  <source src="https://github.com/whisplnspace/AeroArt/blob/main/AeroArt.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
