@@ -28,12 +28,10 @@
 - **MediaPipe**: Google's framework for machine learning applied to human body and hand tracking. Used here to detect hand landmarks and perform gesture-based interactions.
 - **Collections**: The `deque` is used to manage points in a dynamic array structure, allowing the storage and management of multiple points for drawing with different colors.
 - 
-### Demo Video
 
 ### Demo Video
 
-<iframe src=""C:\Users\monda\Videos\Screen Recordings\Screen Recording 2024-09-15 165718.mp4"" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+<iframe src="https://drive.google.com/file/d/1O7PUQH0oXVhj7p87-O6aWtKbt__Ori5E/view?usp=drive_link" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## How It Works
 
