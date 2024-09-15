@@ -27,11 +27,14 @@
 - **NumPy**: Provides support for handling arrays and matrices, which is used to create the kernel for dilation and other image processing techniques.
 - **MediaPipe**: Google's framework for machine learning applied to human body and hand tracking. Used here to detect hand landmarks and perform gesture-based interactions.
 - **Collections**: The `deque` is used to manage points in a dynamic array structure, allowing the storage and management of multiple points for drawing with different colors.
-- 
+  
 
 ### Watch the Demo Video
 
-You can download or watch the video here: [Demo Video](AeroArt.mp4)
+<video width="640" height="480" controls>
+  <source src="https://github.com/your-username/your-repo/raw/main/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## How It Works
