@@ -74,13 +74,6 @@ The interface is intuitive, relying on simple hand gestures to control the drawi
 5. Press the `q` key to quit the application.
 
 
-## Future Enhancements
-
-1. **Eraser Tool**: Implementing an eraser mode that allows users to erase parts of their drawings.
-2. **Shape Drawing**: Add the ability to draw predefined shapes like circles, rectangles, etc., based on gestures.
-3. **Multiple Hand Support**: Expand functionality to allow multi-hand interaction, providing more control over the drawing process.
-4. **Save Canvas**: Add functionality to save the drawing as an image file.
-5. **Gesture-Based Menu**: A more robust menu system controlled entirely by hand gestures.
 
 ## Conclusion
 
